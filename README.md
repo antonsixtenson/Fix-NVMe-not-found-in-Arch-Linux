@@ -3,7 +3,7 @@ This fix is a temporary fix for the problem regarding the WD Black NVMe SSD (in 
 
 # PROBLEM:
 
-<b>The NVMe SSD (WD Black) in this case in Acer Aspire 3 A315-23 Laptop.</b>
+<b>The NVMe SSD (WD Black) in this case in Acer Aspire 3 A315-23 Laptop is not found.</b>
 
 # SOLUTION:
 <b> Solution works for Kernel 5.10.7-3</b>
